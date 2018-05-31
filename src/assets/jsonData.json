@@ -1,0 +1,1640 @@
+[
+  {
+    "symbol": "ETHBTC",
+    "price": "0.07535500",
+    "volume": "88991.94500000",
+    "changePercent": "0.839"
+  },
+  {
+    "symbol": "LTCBTC",
+    "price": "0.01839800",
+    "volume": "69667.21000000",
+    "changePercent": "-0.514"
+  },
+  {
+    "symbol": "BNBBTC",
+    "price": "0.00086310",
+    "volume": "2360666.07000000",
+    "changePercent": "-3.066"
+  },
+  {
+    "symbol": "NEOBTC",
+    "price": "0.00981000",
+    "volume": "398630.98000000",
+    "changePercent": "-4.859"
+  },
+  {
+    "symbol": "QTUMETH",
+    "price": "0.03026700",
+    "volume": "27223.49000000",
+    "changePercent": "-2.838"
+  },
+  {
+    "symbol": "EOSETH",
+    "price": "0.00907400",
+    "volume": "1302698.43000000",
+    "changePercent": "-3.386"
+  },
+  {
+    "symbol": "SNTETH",
+    "price": "0.00020578",
+    "volume": "9364780.00000000",
+    "changePercent": "-2.474"
+  },
+  {
+    "symbol": "BNTETH",
+    "price": "0.00570200",
+    "volume": "42067.67000000",
+    "changePercent": "-1.673"
+  },
+  {
+    "symbol": "BCCBTC",
+    "price": "0.11069300",
+    "volume": "4342.03300000",
+    "changePercent": "-0.201"
+  },
+  {
+    "symbol": "GASBTC",
+    "price": "0.00283800",
+    "volume": "43005.72000000",
+    "changePercent": "-5.871"
+  },
+  {
+    "symbol": "BNBETH",
+    "price": "0.01143100",
+    "volume": "205995.86000000",
+    "changePercent": "-4.118"
+  },
+  {
+    "symbol": "HSRBTC",
+    "price": "0.00076100",
+    "volume": "803891.37000000",
+    "changePercent": "-6.854"
+  },
+  {
+    "symbol": "OAXETH",
+    "price": "0.00104080",
+    "volume": "115290.00000000",
+    "changePercent": "-2.656"
+  },
+  {
+    "symbol": "DNTETH",
+    "price": "0.00010026",
+    "volume": "1484024.00000000",
+    "changePercent": "-4.832"
+  },
+  {
+    "symbol": "MCOETH",
+    "price": "0.01011500",
+    "volume": "20357.99000000",
+    "changePercent": "-5.749"
+  },
+  {
+    "symbol": "ICNETH",
+    "price": "0.00198640",
+    "volume": "203620.00000000",
+    "changePercent": "-4.866"
+  },
+  {
+    "symbol": "MCOBTC",
+    "price": "0.00076700",
+    "volume": "66368.99000000",
+    "changePercent": "-4.720"
+  },
+  {
+    "symbol": "WTCBTC",
+    "price": "0.00217000",
+    "volume": "923820.35000000",
+    "changePercent": "20.629"
+  },
+  {
+    "symbol": "WTCETH",
+    "price": "0.02887200",
+    "volume": "169900.55000000",
+    "changePercent": "19.746"
+  },
+  {
+    "symbol": "LRCBTC",
+    "price": "0.00004557",
+    "volume": "1587152.00000000",
+    "changePercent": "-6.331"
+  },
+  {
+    "symbol": "LRCETH",
+    "price": "0.00060236",
+    "volume": "738191.00000000",
+    "changePercent": "-7.188"
+  },
+  {
+    "symbol": "QTUMBTC",
+    "price": "0.00228400",
+    "volume": "84523.66000000",
+    "changePercent": "-1.594"
+  },
+  {
+    "symbol": "YOYOBTC",
+    "price": "0.00001008",
+    "volume": "2704180.00000000",
+    "changePercent": "-4.906"
+  },
+  {
+    "symbol": "OMGBTC",
+    "price": "0.00146100",
+    "volume": "316762.88000000",
+    "changePercent": "-3.818"
+  },
+  {
+    "symbol": "OMGETH",
+    "price": "0.01935900",
+    "volume": "124913.17000000",
+    "changePercent": "-4.790"
+  },
+  {
+    "symbol": "ZRXBTC",
+    "price": "0.00007565",
+    "volume": "1500333.00000000",
+    "changePercent": "-4.241"
+  },
+  {
+    "symbol": "ZRXETH",
+    "price": "0.00100235",
+    "volume": "752423.00000000",
+    "changePercent": "-5.303"
+  },
+  {
+    "symbol": "STRATBTC",
+    "price": "0.00067400",
+    "volume": "429370.76000000",
+    "changePercent": "-8.299"
+  },
+  {
+    "symbol": "STRATETH",
+    "price": "0.00895000",
+    "volume": "62172.12000000",
+    "changePercent": "-8.299"
+  },
+  {
+    "symbol": "SNGLSBTC",
+    "price": "0.00000890",
+    "volume": "4228184.00000000",
+    "changePercent": "-6.611"
+  },
+  {
+    "symbol": "SNGLSETH",
+    "price": "0.00011825",
+    "volume": "1220577.00000000",
+    "changePercent": "-7.545"
+  },
+  {
+    "symbol": "BQXBTC",
+    "price": "0.00039639",
+    "volume": "519692.00000000",
+    "changePercent": "-2.576"
+  },
+  {
+    "symbol": "BQXETH",
+    "price": "0.00529000",
+    "volume": "235577.00000000",
+    "changePercent": "-3.110"
+  },
+  {
+    "symbol": "KNCBTC",
+    "price": "0.00017020",
+    "volume": "2729636.00000000",
+    "changePercent": "-8.396"
+  },
+  {
+    "symbol": "KNCETH",
+    "price": "0.00226340",
+    "volume": "670254.00000000",
+    "changePercent": "-9.421"
+  },
+  {
+    "symbol": "FUNBTC",
+    "price": "0.00000527",
+    "volume": "39440175.00000000",
+    "changePercent": "0.765"
+  },
+  {
+    "symbol": "FUNETH",
+    "price": "0.00006950",
+    "volume": "11120085.00000000",
+    "changePercent": "-0.672"
+  },
+  {
+    "symbol": "SNMBTC",
+    "price": "0.00001714",
+    "volume": "1431813.00000000",
+    "changePercent": "-1.210"
+  },
+  {
+    "symbol": "SNMETH",
+    "price": "0.00022577",
+    "volume": "378526.00000000",
+    "changePercent": "-2.807"
+  },
+  {
+    "symbol": "NEOETH",
+    "price": "0.13000000",
+    "volume": "112892.11000000",
+    "changePercent": "-5.798"
+  },
+  {
+    "symbol": "IOTABTC",
+    "price": "0.00015677",
+    "volume": "5568271.00000000",
+    "changePercent": "-3.354"
+  },
+  {
+    "symbol": "IOTAETH",
+    "price": "0.00208645",
+    "volume": "1771984.00000000",
+    "changePercent": "-3.947"
+  },
+  {
+    "symbol": "LINKBTC",
+    "price": "0.00005028",
+    "volume": "2871362.00000000",
+    "changePercent": "-1.874"
+  },
+  {
+    "symbol": "LINKETH",
+    "price": "0.00066628",
+    "volume": "1133711.00000000",
+    "changePercent": "-2.679"
+  },
+  {
+    "symbol": "XVGBTC",
+    "price": "0.00000466",
+    "volume": "74866889.00000000",
+    "changePercent": "-2.714"
+  },
+  {
+    "symbol": "XVGETH",
+    "price": "0.00006173",
+    "volume": "18690575.00000000",
+    "changePercent": "-3.487"
+  },
+  {
+    "symbol": "CTRBTC",
+    "price": "0.00005729",
+    "volume": "888340.00000000",
+    "changePercent": "-6.846"
+  },
+  {
+    "symbol": "CTRETH",
+    "price": "0.00075530",
+    "volume": "334045.00000000",
+    "changePercent": "-8.382"
+  },
+  {
+    "symbol": "SALTBTC",
+    "price": "0.00036700",
+    "volume": "230941.10000000",
+    "changePercent": "-1.609"
+  },
+  {
+    "symbol": "SALTETH",
+    "price": "0.00486400",
+    "volume": "47392.60000000",
+    "changePercent": "-2.133"
+  },
+  {
+    "symbol": "MDABTC",
+    "price": "0.00011180",
+    "volume": "261057.00000000",
+    "changePercent": "-5.190"
+  },
+  {
+    "symbol": "MDAETH",
+    "price": "0.00148130",
+    "volume": "145508.00000000",
+    "changePercent": "-5.481"
+  },
+  {
+    "symbol": "MTLBTC",
+    "price": "0.00049900",
+    "volume": "2267453.83000000",
+    "changePercent": "6.170"
+  },
+  {
+    "symbol": "MTLETH",
+    "price": "0.00662500",
+    "volume": "103707.83000000",
+    "changePercent": "5.426"
+  },
+  {
+    "symbol": "SUBBTC",
+    "price": "0.00004151",
+    "volume": "2742465.00000000",
+    "changePercent": "-6.107"
+  },
+  {
+    "symbol": "SUBETH",
+    "price": "0.00054974",
+    "volume": "856888.00000000",
+    "changePercent": "-7.462"
+  },
+  {
+    "symbol": "EOSBTC",
+    "price": "0.00068507",
+    "volume": "1022816.00000000",
+    "changePercent": "-2.707"
+  },
+  {
+    "symbol": "SNTBTC",
+    "price": "0.00001557",
+    "volume": "40552489.00000000",
+    "changePercent": "-1.642"
+  },
+  {
+    "symbol": "ETCETH",
+    "price": "0.03114900",
+    "volume": "193391.92000000",
+    "changePercent": "-2.507"
+  },
+  {
+    "symbol": "ETCBTC",
+    "price": "0.00234900",
+    "volume": "1139802.48000000",
+    "changePercent": "-1.715"
+  },
+  {
+    "symbol": "MTHBTC",
+    "price": "0.00001162",
+    "volume": "1900009.00000000",
+    "changePercent": "-6.742"
+  },
+  {
+    "symbol": "MTHETH",
+    "price": "0.00015501",
+    "volume": "956864.00000000",
+    "changePercent": "-6.979"
+  },
+  {
+    "symbol": "ENGBTC",
+    "price": "0.00021623",
+    "volume": "585940.00000000",
+    "changePercent": "-6.065"
+  },
+  {
+    "symbol": "ENGETH",
+    "price": "0.00286260",
+    "volume": "206701.00000000",
+    "changePercent": "-7.467"
+  },
+  {
+    "symbol": "DNTBTC",
+    "price": "0.00000752",
+    "volume": "5252514.00000000",
+    "changePercent": "-4.204"
+  },
+  {
+    "symbol": "ZECBTC",
+    "price": "0.03465800",
+    "volume": "2636.31500000",
+    "changePercent": "0.779"
+  },
+  {
+    "symbol": "ZECETH",
+    "price": "0.45990000",
+    "volume": "644.16500000",
+    "changePercent": "-0.245"
+  },
+  {
+    "symbol": "BNTBTC",
+    "price": "0.00043089",
+    "volume": "72568.00000000",
+    "changePercent": "-0.188"
+  },
+  {
+    "symbol": "ASTBTC",
+    "price": "0.00003580",
+    "volume": "1392818.00000000",
+    "changePercent": "-4.047"
+  },
+  {
+    "symbol": "ASTETH",
+    "price": "0.00047730",
+    "volume": "469684.00000000",
+    "changePercent": "-5.279"
+  },
+  {
+    "symbol": "DASHBTC",
+    "price": "0.05260500",
+    "volume": "2195.85000000",
+    "changePercent": "-1.372"
+  },
+  {
+    "symbol": "DASHETH",
+    "price": "0.69597000",
+    "volume": "1105.24100000",
+    "changePercent": "-2.092"
+  },
+  {
+    "symbol": "OAXBTC",
+    "price": "0.00007842",
+    "volume": "192652.00000000",
+    "changePercent": "-2.061"
+  },
+  {
+    "symbol": "ICNBTC",
+    "price": "0.00015000",
+    "volume": "480109.00000000",
+    "changePercent": "-3.932"
+  },
+  {
+    "symbol": "BTGBTC",
+    "price": "0.00923800",
+    "volume": "19947.89000000",
+    "changePercent": "-3.257"
+  },
+  {
+    "symbol": "BTGETH",
+    "price": "0.12201800",
+    "volume": "5988.97000000",
+    "changePercent": "-4.527"
+  },
+  {
+    "symbol": "EVXBTC",
+    "price": "0.00018413",
+    "volume": "245348.00000000",
+    "changePercent": "-3.471"
+  },
+  {
+    "symbol": "EVXETH",
+    "price": "0.00240720",
+    "volume": "61256.00000000",
+    "changePercent": "-5.748"
+  },
+  {
+    "symbol": "REQBTC",
+    "price": "0.00002504",
+    "volume": "2186311.00000000",
+    "changePercent": "-2.188"
+  },
+  {
+    "symbol": "REQETH",
+    "price": "0.00033101",
+    "volume": "1991624.00000000",
+    "changePercent": "-3.216"
+  },
+  {
+    "symbol": "VIBBTC",
+    "price": "0.00002333",
+    "volume": "7555507.00000000",
+    "changePercent": "4.478"
+  },
+  {
+    "symbol": "VIBETH",
+    "price": "0.00030924",
+    "volume": "691021.00000000",
+    "changePercent": "4.420"
+  },
+  {
+    "symbol": "HSRETH",
+    "price": "0.01010000",
+    "volume": "46196.39000000",
+    "changePercent": "-7.720"
+  },
+  {
+    "symbol": "TRXBTC",
+    "price": "0.00000408",
+    "volume": "1274764325.00000000",
+    "changePercent": "-0.730"
+  },
+  {
+    "symbol": "TRXETH",
+    "price": "0.00005410",
+    "volume": "705275963.00000000",
+    "changePercent": "-1.439"
+  },
+  {
+    "symbol": "POWRBTC",
+    "price": "0.00004937",
+    "volume": "1238697.00000000",
+    "changePercent": "-3.139"
+  },
+  {
+    "symbol": "POWRETH",
+    "price": "0.00065490",
+    "volume": "443121.00000000",
+    "changePercent": "-3.217"
+  },
+  {
+    "symbol": "ARKBTC",
+    "price": "0.00034990",
+    "volume": "257345.25000000",
+    "changePercent": "0.431"
+  },
+  {
+    "symbol": "ARKETH",
+    "price": "0.00464600",
+    "volume": "57277.18000000",
+    "changePercent": "-0.493"
+  },
+  {
+    "symbol": "YOYOETH",
+    "price": "0.00013363",
+    "volume": "971426.00000000",
+    "changePercent": "-5.888"
+  },
+  {
+    "symbol": "XRPBTC",
+    "price": "0.00008437",
+    "volume": "108442826.00000000",
+    "changePercent": "-7.519"
+  },
+  {
+    "symbol": "XRPETH",
+    "price": "0.00111879",
+    "volume": "21273520.00000000",
+    "changePercent": "-8.593"
+  },
+  {
+    "symbol": "MODBTC",
+    "price": "0.00022620",
+    "volume": "234841.17000000",
+    "changePercent": "-10.664"
+  },
+  {
+    "symbol": "MODETH",
+    "price": "0.00298600",
+    "volume": "113076.76000000",
+    "changePercent": "-11.604"
+  },
+  {
+    "symbol": "ENJBTC",
+    "price": "0.00001516",
+    "volume": "4849047.00000000",
+    "changePercent": "-4.834"
+  },
+  {
+    "symbol": "ENJETH",
+    "price": "0.00020156",
+    "volume": "2185797.00000000",
+    "changePercent": "-5.508"
+  },
+  {
+    "symbol": "STORJBTC",
+    "price": "0.00009980",
+    "volume": "2170331.00000000",
+    "changePercent": "1.847"
+  },
+  {
+    "symbol": "STORJETH",
+    "price": "0.00131190",
+    "volume": "323792.00000000",
+    "changePercent": "-0.236"
+  },
+  {
+    "symbol": "VENBNB",
+    "price": "0.46400000",
+    "volume": "52307.17000000",
+    "changePercent": "1.866"
+  },
+  {
+    "symbol": "YOYOBNB",
+    "price": "0.01171000",
+    "volume": "137082.47000000",
+    "changePercent": "-2.660"
+  },
+  {
+    "symbol": "POWRBNB",
+    "price": "0.05720000",
+    "volume": "34668.46000000",
+    "changePercent": "1.347"
+  },
+  {
+    "symbol": "VENBTC",
+    "price": "0.00040202",
+    "volume": "3595839.00000000",
+    "changePercent": "-0.662"
+  },
+  {
+    "symbol": "VENETH",
+    "price": "0.00532001",
+    "volume": "1210008.00000000",
+    "changePercent": "-1.834"
+  },
+  {
+    "symbol": "KMDBTC",
+    "price": "0.00036680",
+    "volume": "126003.76000000",
+    "changePercent": "-2.134"
+  },
+  {
+    "symbol": "KMDETH",
+    "price": "0.00487000",
+    "volume": "28101.95000000",
+    "changePercent": "-2.697"
+  },
+  {
+    "symbol": "NULSBNB",
+    "price": "0.42000000",
+    "volume": "48069.75000000",
+    "changePercent": "22.613"
+  },
+  {
+    "symbol": "RCNBTC",
+    "price": "0.00001395",
+    "volume": "13220125.00000000",
+    "changePercent": "8.223"
+  },
+  {
+    "symbol": "RCNETH",
+    "price": "0.00018406",
+    "volume": "2068462.00000000",
+    "changePercent": "5.830"
+  },
+  {
+    "symbol": "RCNBNB",
+    "price": "0.01621000",
+    "volume": "450067.34000000",
+    "changePercent": "12.102"
+  },
+  {
+    "symbol": "NULSBTC",
+    "price": "0.00036240",
+    "volume": "2102404.00000000",
+    "changePercent": "17.735"
+  },
+  {
+    "symbol": "NULSETH",
+    "price": "0.00480828",
+    "volume": "515078.00000000",
+    "changePercent": "16.949"
+  },
+  {
+    "symbol": "RDNBTC",
+    "price": "0.00022977",
+    "volume": "129562.00000000",
+    "changePercent": "-3.523"
+  },
+  {
+    "symbol": "RDNETH",
+    "price": "0.00305000",
+    "volume": "83781.00000000",
+    "changePercent": "-4.181"
+  },
+  {
+    "symbol": "RDNBNB",
+    "price": "0.26334000",
+    "volume": "2995.30000000",
+    "changePercent": "-1.338"
+  },
+  {
+    "symbol": "XMRBTC",
+    "price": "0.03214600",
+    "volume": "40789.11000000",
+    "changePercent": "1.818"
+  },
+  {
+    "symbol": "XMRETH",
+    "price": "0.42639000",
+    "volume": "6721.91300000",
+    "changePercent": "1.038"
+  },
+  {
+    "symbol": "DLTBNB",
+    "price": "0.03142000",
+    "volume": "87555.57000000",
+    "changePercent": "1.519"
+  },
+  {
+    "symbol": "WTCBNB",
+    "price": "2.48940000",
+    "volume": "11938.65000000",
+    "changePercent": "23.654"
+  },
+  {
+    "symbol": "DLTBTC",
+    "price": "0.00002729",
+    "volume": "1645252.00000000",
+    "changePercent": "-0.728"
+  },
+  {
+    "symbol": "DLTETH",
+    "price": "0.00036001",
+    "volume": "300043.00000000",
+    "changePercent": "-2.171"
+  },
+  {
+    "symbol": "AMBBTC",
+    "price": "0.00004530",
+    "volume": "1035434.00000000",
+    "changePercent": "-6.308"
+  },
+  {
+    "symbol": "AMBETH",
+    "price": "0.00060612",
+    "volume": "491330.00000000",
+    "changePercent": "-6.500"
+  },
+  {
+    "symbol": "AMBBNB",
+    "price": "0.05247000",
+    "volume": "17200.80000000",
+    "changePercent": "-2.581"
+  },
+  {
+    "symbol": "BCCETH",
+    "price": "1.46502000",
+    "volume": "693.64200000",
+    "changePercent": "-0.953"
+  },
+  {
+    "symbol": "BCCUSDT",
+    "price": "1215.12000000",
+    "volume": "3026.30769000",
+    "changePercent": "-4.737"
+  },
+  {
+    "symbol": "BCCBNB",
+    "price": "127.92000000",
+    "volume": "169.29131000",
+    "changePercent": "2.582"
+  },
+  {
+    "symbol": "BATBTC",
+    "price": "0.00003161",
+    "volume": "1294438.00000000",
+    "changePercent": "-3.979"
+  },
+  {
+    "symbol": "BATETH",
+    "price": "0.00041903",
+    "volume": "487148.00000000",
+    "changePercent": "-4.571"
+  },
+  {
+    "symbol": "BATBNB",
+    "price": "0.03661000",
+    "volume": "63353.68000000",
+    "changePercent": "-0.489"
+  },
+  {
+    "symbol": "BCPTBTC",
+    "price": "0.00009220",
+    "volume": "15730180.00000000",
+    "changePercent": "-11.601"
+  },
+  {
+    "symbol": "BCPTETH",
+    "price": "0.00121727",
+    "volume": "2511222.00000000",
+    "changePercent": "-12.756"
+  },
+  {
+    "symbol": "BCPTBNB",
+    "price": "0.10707000",
+    "volume": "369409.51000000",
+    "changePercent": "-8.884"
+  },
+  {
+    "symbol": "ARNBTC",
+    "price": "0.00019380",
+    "volume": "965678.00000000",
+    "changePercent": "-7.890"
+  },
+  {
+    "symbol": "ARNETH",
+    "price": "0.00256265",
+    "volume": "129518.00000000",
+    "changePercent": "-9.070"
+  },
+  {
+    "symbol": "GVTBTC",
+    "price": "0.00314000",
+    "volume": "166493.93000000",
+    "changePercent": "3.436"
+  },
+  {
+    "symbol": "GVTETH",
+    "price": "0.04140100",
+    "volume": "34873.00000000",
+    "changePercent": "1.720"
+  },
+  {
+    "symbol": "CDTBTC",
+    "price": "0.00000596",
+    "volume": "8853513.00000000",
+    "changePercent": "-2.773"
+  },
+  {
+    "symbol": "CDTETH",
+    "price": "0.00007900",
+    "volume": "3758097.00000000",
+    "changePercent": "-3.458"
+  },
+  {
+    "symbol": "GXSBTC",
+    "price": "0.00032610",
+    "volume": "730342.10000000",
+    "changePercent": "-2.773"
+  },
+  {
+    "symbol": "GXSETH",
+    "price": "0.00433100",
+    "volume": "490873.59000000",
+    "changePercent": "-3.734"
+  },
+  {
+    "symbol": "NEOUSDT",
+    "price": "107.83600000",
+    "volume": "402731.71500000",
+    "changePercent": "-8.999"
+  },
+  {
+    "symbol": "NEOBNB",
+    "price": "11.36600000",
+    "volume": "11157.43300000",
+    "changePercent": "-1.678"
+  },
+  {
+    "symbol": "POEBTC",
+    "price": "0.00000414",
+    "volume": "44159046.00000000",
+    "changePercent": "-6.335"
+  },
+  {
+    "symbol": "POEETH",
+    "price": "0.00005515",
+    "volume": "13002487.00000000",
+    "changePercent": "-6.936"
+  },
+  {
+    "symbol": "QSPBTC",
+    "price": "0.00001866",
+    "volume": "5232392.00000000",
+    "changePercent": "-6.042"
+  },
+  {
+    "symbol": "QSPETH",
+    "price": "0.00024974",
+    "volume": "2563793.00000000",
+    "changePercent": "-5.766"
+  },
+  {
+    "symbol": "QSPBNB",
+    "price": "0.02181000",
+    "volume": "128214.80000000",
+    "changePercent": "-1.889"
+  },
+  {
+    "symbol": "BTSBTC",
+    "price": "0.00001860",
+    "volume": "7473303.00000000",
+    "changePercent": "-5.440"
+  },
+  {
+    "symbol": "BTSETH",
+    "price": "0.00024666",
+    "volume": "1524852.00000000",
+    "changePercent": "-6.316"
+  },
+  {
+    "symbol": "BTSBNB",
+    "price": "0.02142000",
+    "volume": "229002.16000000",
+    "changePercent": "-2.548"
+  },
+  {
+    "symbol": "XZCBTC",
+    "price": "0.00451300",
+    "volume": "12355.47000000",
+    "changePercent": "-4.668"
+  },
+  {
+    "symbol": "XZCETH",
+    "price": "0.05988100",
+    "volume": "1712.41000000",
+    "changePercent": "-5.625"
+  },
+  {
+    "symbol": "XZCBNB",
+    "price": "5.19000000",
+    "volume": "126.00100000",
+    "changePercent": "-2.736"
+  },
+  {
+    "symbol": "LSKBTC",
+    "price": "0.00156770",
+    "volume": "153035.96000000",
+    "changePercent": "-3.145"
+  },
+  {
+    "symbol": "LSKETH",
+    "price": "0.02078800",
+    "volume": "36384.48000000",
+    "changePercent": "-3.982"
+  },
+  {
+    "symbol": "LSKBNB",
+    "price": "1.81350000",
+    "volume": "5347.66000000",
+    "changePercent": "-0.472"
+  },
+  {
+    "symbol": "TNTBTC",
+    "price": "0.00000934",
+    "volume": "4540098.00000000",
+    "changePercent": "-5.466"
+  },
+  {
+    "symbol": "TNTETH",
+    "price": "0.00012397",
+    "volume": "1651924.00000000",
+    "changePercent": "-6.090"
+  },
+  {
+    "symbol": "FUELBTC",
+    "price": "0.00000980",
+    "volume": "6011174.00000000",
+    "changePercent": "-6.220"
+  },
+  {
+    "symbol": "FUELETH",
+    "price": "0.00013080",
+    "volume": "2140644.00000000",
+    "changePercent": "-6.571"
+  },
+  {
+    "symbol": "MANABTC",
+    "price": "0.00000978",
+    "volume": "3606595.00000000",
+    "changePercent": "0.000"
+  },
+  {
+    "symbol": "MANAETH",
+    "price": "0.00012998",
+    "volume": "1320144.00000000",
+    "changePercent": "-0.038"
+  },
+  {
+    "symbol": "BCDBTC",
+    "price": "0.00391000",
+    "volume": "1455750.28600000",
+    "changePercent": "46.992"
+  },
+  {
+    "symbol": "BCDETH",
+    "price": "0.05135000",
+    "volume": "164632.70100000",
+    "changePercent": "44.975"
+  },
+  {
+    "symbol": "DGDBTC",
+    "price": "0.04561900",
+    "volume": "90121.76600000",
+    "changePercent": "5.002"
+  },
+  {
+    "symbol": "DGDETH",
+    "price": "0.60489000",
+    "volume": "16353.95700000",
+    "changePercent": "4.026"
+  },
+  {
+    "symbol": "IOTABNB",
+    "price": "0.18150000",
+    "volume": "191405.98000000",
+    "changePercent": "-0.428"
+  },
+  {
+    "symbol": "ADXBTC",
+    "price": "0.00010568",
+    "volume": "1370201.00000000",
+    "changePercent": "-5.508"
+  },
+  {
+    "symbol": "ADXETH",
+    "price": "0.00140460",
+    "volume": "405406.00000000",
+    "changePercent": "-6.122"
+  },
+  {
+    "symbol": "ADXBNB",
+    "price": "0.12270000",
+    "volume": "922312.48000000",
+    "changePercent": "-2.286"
+  },
+  {
+    "symbol": "ADABTC",
+    "price": "0.00002572",
+    "volume": "89559269.00000000",
+    "changePercent": "-2.539"
+  },
+  {
+    "symbol": "ADAETH",
+    "price": "0.00034140",
+    "volume": "20049059.00000000",
+    "changePercent": "-3.324"
+  },
+  {
+    "symbol": "PPTBTC",
+    "price": "0.00179350",
+    "volume": "123885.58000000",
+    "changePercent": "-7.784"
+  },
+  {
+    "symbol": "PPTETH",
+    "price": "0.02389100",
+    "volume": "48821.12000000",
+    "changePercent": "-8.277"
+  },
+  {
+    "symbol": "CMTBTC",
+    "price": "0.00001095",
+    "volume": "27600371.00000000",
+    "changePercent": "-0.455"
+  },
+  {
+    "symbol": "CMTETH",
+    "price": "0.00014500",
+    "volume": "14186875.00000000",
+    "changePercent": "-1.775"
+  },
+  {
+    "symbol": "CMTBNB",
+    "price": "0.01270000",
+    "volume": "838184.46000000",
+    "changePercent": "2.751"
+  },
+  {
+    "symbol": "XLMBTC",
+    "price": "0.00003152",
+    "volume": "35104412.00000000",
+    "changePercent": "-4.629"
+  },
+  {
+    "symbol": "XLMETH",
+    "price": "0.00041790",
+    "volume": "8908126.00000000",
+    "changePercent": "-5.382"
+  },
+  {
+    "symbol": "XLMBNB",
+    "price": "0.03650000",
+    "volume": "554609.60000000",
+    "changePercent": "-1.484"
+  },
+  {
+    "symbol": "CNDBTC",
+    "price": "0.00001098",
+    "volume": "14511131.00000000",
+    "changePercent": "-6.712"
+  },
+  {
+    "symbol": "CNDETH",
+    "price": "0.00014558",
+    "volume": "5093708.00000000",
+    "changePercent": "-7.568"
+  },
+  {
+    "symbol": "CNDBNB",
+    "price": "0.01260000",
+    "volume": "498471.69000000",
+    "changePercent": "-3.817"
+  },
+  {
+    "symbol": "LENDBTC",
+    "price": "0.00000717",
+    "volume": "15991204.00000000",
+    "changePercent": "-4.907"
+  },
+  {
+    "symbol": "LENDETH",
+    "price": "0.00009501",
+    "volume": "8940645.00000000",
+    "changePercent": "-5.837"
+  },
+  {
+    "symbol": "WABIBTC",
+    "price": "0.00011900",
+    "volume": "694253.00000000",
+    "changePercent": "-0.352"
+  },
+  {
+    "symbol": "WABIETH",
+    "price": "0.00159272",
+    "volume": "196688.00000000",
+    "changePercent": "-0.266"
+  },
+  {
+    "symbol": "WABIBNB",
+    "price": "0.13747000",
+    "volume": "11316.51000000",
+    "changePercent": "1.988"
+  },
+  {
+    "symbol": "LTCETH",
+    "price": "0.24370000",
+    "volume": "16079.22000000",
+    "changePercent": "-1.507"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "price": "202.49000000",
+    "volume": "95369.90559000",
+    "changePercent": "-4.845"
+  },
+  {
+    "symbol": "LTCBNB",
+    "price": "21.34000000",
+    "volume": "2678.95670000",
+    "changePercent": "2.843"
+  },
+  {
+    "symbol": "TNBBTC",
+    "price": "0.00000389",
+    "volume": "25302971.00000000",
+    "changePercent": "-6.938"
+  },
+  {
+    "symbol": "TNBETH",
+    "price": "0.00005139",
+    "volume": "8016409.00000000",
+    "changePercent": "-8.330"
+  },
+  {
+    "symbol": "WAVESBTC",
+    "price": "0.00057420",
+    "volume": "141669.70000000",
+    "changePercent": "-3.154"
+  },
+  {
+    "symbol": "WAVESETH",
+    "price": "0.00761000",
+    "volume": "29882.58000000",
+    "changePercent": "-4.253"
+  },
+  {
+    "symbol": "WAVESBNB",
+    "price": "0.65850000",
+    "volume": "2855.36000000",
+    "changePercent": "-1.965"
+  },
+  {
+    "symbol": "GTOBTC",
+    "price": "0.00003079",
+    "volume": "5155318.00000000",
+    "changePercent": "-6.555"
+  },
+  {
+    "symbol": "GTOETH",
+    "price": "0.00040800",
+    "volume": "1992072.00000000",
+    "changePercent": "-7.623"
+  },
+  {
+    "symbol": "GTOBNB",
+    "price": "0.03564000",
+    "volume": "353091.95000000",
+    "changePercent": "-3.126"
+  },
+  {
+    "symbol": "ICXBTC",
+    "price": "0.00030820",
+    "volume": "3392680.90000000",
+    "changePercent": "-2.128"
+  },
+  {
+    "symbol": "ICXETH",
+    "price": "0.00409800",
+    "volume": "1107135.89000000",
+    "changePercent": "-2.822"
+  },
+  {
+    "symbol": "ICXBNB",
+    "price": "0.35810000",
+    "volume": "55806.90000000",
+    "changePercent": "1.442"
+  },
+  {
+    "symbol": "OSTBTC",
+    "price": "0.00002551",
+    "volume": "11716690.00000000",
+    "changePercent": "-12.935"
+  },
+  {
+    "symbol": "OSTETH",
+    "price": "0.00033750",
+    "volume": "3255381.00000000",
+    "changePercent": "-13.826"
+  },
+  {
+    "symbol": "OSTBNB",
+    "price": "0.02929000",
+    "volume": "297033.88000000",
+    "changePercent": "-10.973"
+  },
+  {
+    "symbol": "ELFBTC",
+    "price": "0.00010261",
+    "volume": "2289449.00000000",
+    "changePercent": "-3.152"
+  },
+  {
+    "symbol": "ELFETH",
+    "price": "0.00136317",
+    "volume": "1143308.00000000",
+    "changePercent": "-3.934"
+  },
+  {
+    "symbol": "AIONBTC",
+    "price": "0.00027020",
+    "volume": "471592.82000000",
+    "changePercent": "-3.741"
+  },
+  {
+    "symbol": "AIONETH",
+    "price": "0.00359200",
+    "volume": "152667.22000000",
+    "changePercent": "-4.315"
+  },
+  {
+    "symbol": "AIONBNB",
+    "price": "0.31327000",
+    "volume": "7166.61000000",
+    "changePercent": "-0.473"
+  },
+  {
+    "symbol": "NEBLBTC",
+    "price": "0.00143200",
+    "volume": "691141.71000000",
+    "changePercent": "1.030"
+  },
+  {
+    "symbol": "NEBLETH",
+    "price": "0.01893700",
+    "volume": "155640.28000000",
+    "changePercent": "0.196"
+  },
+  {
+    "symbol": "NEBLBNB",
+    "price": "1.65050000",
+    "volume": "9968.18000000",
+    "changePercent": "4.949"
+  },
+  {
+    "symbol": "BRDBTC",
+    "price": "0.00006988",
+    "volume": "6035239.00000000",
+    "changePercent": "-1.244"
+  },
+  {
+    "symbol": "BRDETH",
+    "price": "0.00092650",
+    "volume": "3275731.00000000",
+    "changePercent": "-2.051"
+  },
+  {
+    "symbol": "BRDBNB",
+    "price": "0.08139000",
+    "volume": "4832.59000000",
+    "changePercent": "3.091"
+  },
+  {
+    "symbol": "MCOBNB",
+    "price": "0.90164000",
+    "volume": "1662.72000000",
+    "changePercent": "-0.555"
+  },
+  {
+    "symbol": "EDOBTC",
+    "price": "0.00021320",
+    "volume": "210752.22000000",
+    "changePercent": "-5.076"
+  },
+  {
+    "symbol": "EDOETH",
+    "price": "0.00283500",
+    "volume": "35808.22000000",
+    "changePercent": "-5.814"
+  },
+  {
+    "symbol": "WINGSBTC",
+    "price": "0.00006604",
+    "volume": "740900.00000000",
+    "changePercent": "-4.773"
+  },
+  {
+    "symbol": "WINGSETH",
+    "price": "0.00086500",
+    "volume": "120006.00000000",
+    "changePercent": "-6.416"
+  },
+  {
+    "symbol": "NAVBTC",
+    "price": "0.00015510",
+    "volume": "127958.94000000",
+    "changePercent": "-6.341"
+  },
+  {
+    "symbol": "NAVETH",
+    "price": "0.00206200",
+    "volume": "41698.15000000",
+    "changePercent": "-6.697"
+  },
+  {
+    "symbol": "NAVBNB",
+    "price": "0.17890000",
+    "volume": "3704.25000000",
+    "changePercent": "-3.848"
+  },
+  {
+    "symbol": "LUNBTC",
+    "price": "0.00179270",
+    "volume": "109650.17000000",
+    "changePercent": "-1.711"
+  },
+  {
+    "symbol": "LUNETH",
+    "price": "0.02369600",
+    "volume": "19835.07000000",
+    "changePercent": "-2.833"
+  },
+  {
+    "symbol": "TRIGBTC",
+    "price": "0.00012510",
+    "volume": "658595.60000000",
+    "changePercent": "-0.160"
+  },
+  {
+    "symbol": "TRIGETH",
+    "price": "0.00165700",
+    "volume": "107054.56000000",
+    "changePercent": "-1.369"
+  },
+  {
+    "symbol": "TRIGBNB",
+    "price": "0.14087000",
+    "volume": "23069.50000000",
+    "changePercent": "0.399"
+  },
+  {
+    "symbol": "APPCBTC",
+    "price": "0.00005555",
+    "volume": "2845443.00000000",
+    "changePercent": "-5.334"
+  },
+  {
+    "symbol": "APPCETH",
+    "price": "0.00073500",
+    "volume": "414650.00000000",
+    "changePercent": "-6.453"
+  },
+  {
+    "symbol": "APPCBNB",
+    "price": "0.06435000",
+    "volume": "158393.48000000",
+    "changePercent": "-2.750"
+  },
+  {
+    "symbol": "VIBEBTC",
+    "price": "0.00003307",
+    "volume": "3400955.00000000",
+    "changePercent": "-6.051"
+  },
+  {
+    "symbol": "VIBEETH",
+    "price": "0.00044010",
+    "volume": "818333.00000000",
+    "changePercent": "-6.441"
+  },
+  {
+    "symbol": "RLCBTC",
+    "price": "0.00011190",
+    "volume": "304996.63000000",
+    "changePercent": "-7.673"
+  },
+  {
+    "symbol": "RLCETH",
+    "price": "0.00148500",
+    "volume": "132762.53000000",
+    "changePercent": "-7.993"
+  },
+  {
+    "symbol": "RLCBNB",
+    "price": "0.12998000",
+    "volume": "25790.95000000",
+    "changePercent": "-3.526"
+  },
+  {
+    "symbol": "INSBTC",
+    "price": "0.00018280",
+    "volume": "2695361.06000000",
+    "changePercent": "-4.692"
+  },
+  {
+    "symbol": "INSETH",
+    "price": "0.00243700",
+    "volume": "76075.65000000",
+    "changePercent": "-5.101"
+  },
+  {
+    "symbol": "PIVXBTC",
+    "price": "0.00050810",
+    "volume": "121407.73000000",
+    "changePercent": "-4.295"
+  },
+  {
+    "symbol": "PIVXETH",
+    "price": "0.00677700",
+    "volume": "22907.68000000",
+    "changePercent": "-4.428"
+  },
+  {
+    "symbol": "PIVXBNB",
+    "price": "0.58512000",
+    "volume": "3262.59000000",
+    "changePercent": "-1.872"
+  },
+  {
+    "symbol": "IOSTBTC",
+    "price": "0.00000291",
+    "volume": "89129370.00000000",
+    "changePercent": "-8.202"
+  },
+  {
+    "symbol": "IOSTETH",
+    "price": "0.00003856",
+    "volume": "24224518.00000000",
+    "changePercent": "-9.078"
+  },
+  {
+    "symbol": "CHATBTC",
+    "price": "0.00001500",
+    "volume": "12756123.00000000",
+    "changePercent": "-6.250"
+  },
+  {
+    "symbol": "CHATETH",
+    "price": "0.00019800",
+    "volume": "3673541.00000000",
+    "changePercent": "-6.709"
+  },
+  {
+    "symbol": "STEEMBTC",
+    "price": "0.00029410",
+    "volume": "194561.91000000",
+    "changePercent": "-4.482"
+  },
+  {
+    "symbol": "STEEMETH",
+    "price": "0.00387800",
+    "volume": "40314.92000000",
+    "changePercent": "-6.124"
+  },
+  {
+    "symbol": "STEEMBNB",
+    "price": "0.33905000",
+    "volume": "5357.74000000",
+    "changePercent": "-2.896"
+  },
+  {
+    "symbol": "NANOBTC",
+    "price": "0.00122300",
+    "volume": "2821984.29000000",
+    "changePercent": "-6.727"
+  },
+  {
+    "symbol": "NANOETH",
+    "price": "0.01619600",
+    "volume": "391885.16000000",
+    "changePercent": "-7.783"
+  },
+  {
+    "symbol": "NANOBNB",
+    "price": "1.41280000",
+    "volume": "55038.44000000",
+    "changePercent": "-4.152"
+  },
+  {
+    "symbol": "VIABTC",
+    "price": "0.00022800",
+    "volume": "80051.99000000",
+    "changePercent": "-2.979"
+  },
+  {
+    "symbol": "VIAETH",
+    "price": "0.00302300",
+    "volume": "13110.53000000",
+    "changePercent": "-3.295"
+  },
+  {
+    "symbol": "VIABNB",
+    "price": "0.26690000",
+    "volume": "4064.72000000",
+    "changePercent": "-0.436"
+  },
+  {
+    "symbol": "BLZBTC",
+    "price": "0.00004150",
+    "volume": "2765247.00000000",
+    "changePercent": "-6.405"
+  },
+  {
+    "symbol": "BLZETH",
+    "price": "0.00055004",
+    "volume": "1628146.00000000",
+    "changePercent": "-7.508"
+  },
+  {
+    "symbol": "BLZBNB",
+    "price": "0.04800000",
+    "volume": "73536.89000000",
+    "changePercent": "-4.875"
+  },
+  {
+    "symbol": "AEBTC",
+    "price": "0.00019610",
+    "volume": "439580.32000000",
+    "changePercent": "-1.408"
+  },
+  {
+    "symbol": "AEETH",
+    "price": "0.00259800",
+    "volume": "248296.09000000",
+    "changePercent": "-2.441"
+  },
+  {
+    "symbol": "AEBNB",
+    "price": "0.22634000",
+    "volume": "22019.84000000",
+    "changePercent": "1.525"
+  },
+  {
+    "symbol": "RPXBTC",
+    "price": "0.00001346",
+    "volume": "8858728.00000000",
+    "changePercent": "-7.871"
+  },
+  {
+    "symbol": "RPXETH",
+    "price": "0.00017896",
+    "volume": "2626024.00000000",
+    "changePercent": "-8.922"
+  },
+  {
+    "symbol": "RPXBNB",
+    "price": "0.01565000",
+    "volume": "290555.72000000",
+    "changePercent": "-4.223"
+  },
+  {
+    "symbol": "NCASHBTC",
+    "price": "0.00000282",
+    "volume": "321893986.00000000",
+    "changePercent": "-2.759"
+  },
+  {
+    "symbol": "NCASHETH",
+    "price": "0.00003752",
+    "volume": "75360277.00000000",
+    "changePercent": "-2.873"
+  },
+  {
+    "symbol": "NCASHBNB",
+    "price": "0.00327000",
+    "volume": "12100242.69000000",
+    "changePercent": "0.926"
+  },
+  {
+    "symbol": "POABTC",
+    "price": "0.00003831",
+    "volume": "5385621.00000000",
+    "changePercent": "-5.056"
+  },
+  {
+    "symbol": "POAETH",
+    "price": "0.00050997",
+    "volume": "4468998.00000000",
+    "changePercent": "-5.561"
+  },
+  {
+    "symbol": "POABNB",
+    "price": "0.04441000",
+    "volume": "140500.86000000",
+    "changePercent": "-1.770"
+  },
+  {
+    "symbol": "ZILBTC",
+    "price": "0.00000444",
+    "volume": "177868103.00000000",
+    "changePercent": "-12.426"
+  },
+  {
+    "symbol": "ZILETH",
+    "price": "0.00005893",
+    "volume": "70020273.00000000",
+    "changePercent": "-13.211"
+  },
+  {
+    "symbol": "ZILBNB",
+    "price": "0.00516000",
+    "volume": "3306972.06000000",
+    "changePercent": "-9.315"
+  }
+]

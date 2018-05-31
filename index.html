@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/vue-nav-tabs/themes/vue-tabs.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <script src="https://unpkg.com/vue-nav-tabs/dist/vue-tabs.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons' rel="stylesheet">
+    <title>binance</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+  <script>
+
+    var star = $(".star");
+        star.click(function() {
+          if ($(this).hasClass("starred")) {
+            $(this).removeClass("starred");
+            $(this).addClass("unstarred");
+          } else if ($(this).hasClass("unstarred")) {
+            $(this).removeClass("unstarred");
+            $(this).addClass("starred");
+          } else {
+        $(this).addClass("starred");
+      }
+    });
+  </script>
+</html>
